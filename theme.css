@@ -1,0 +1,138 @@
+html, body {
+	max-height: 100%;
+	max-width: 100%;
+}
+
+
+#robbieHeader{
+	//background-color: black;
+	width: 50%;
+	height:60vh;
+	div-align:center;
+	margin-left: 25%;
+  text-align:center;
+  font-size:x-large;
+  font-family: Arial;
+}
+
+img{
+  text-align:center;
+  height:100%;
+}
+
+#space{
+
+	width: 40%;
+	height:2vh;
+	text-align:center;
+	margin-left: 30%;
+}
+
+#buttonContainer{
+	
+	width: 20%;
+	height:6vh;
+	text-align:center;
+	margin-left: 40%;
+}
+
+#quoteContainer{
+  font-size:large;
+  font-family: Arial;
+ 
+  
+	
+  border-radius: 100px;
+    background: rgba(250,250,250,0.5);
+    
+	width: 100%;
+	height:10vh;
+	text-align:center;
+	
+	position:static;
+}
+
+body{
+	background: rgb(250,237,206);
+}
+#shoulderspace{
+	height:70%;
+}
+#thumb1{
+	position:fixed;
+	left:30%;
+	top:0%;
+	width:10%;
+	height:auto;
+	opacity:0;
+}
+#thumb2{
+	position:fixed;
+	left:80%;
+	top:50%;
+	width:10%;
+	height:auto;
+	opacity:0;
+}
+#thumb3{
+	position:fixed;
+	left:10%;
+	top:70%;
+	width:10%;
+	height:auto;
+	opacity:0;
+}
+#android{
+	opacity:0;
+	position:fixed;
+	left:40%;
+	top:5%;
+	width:auto;
+	height:60%;
+}
+
+#quote{
+	padding-top:20px;
+	float:left;
+	width:70%;
+
+}
+#left{
+
+	padding-top:5px;
+	margin-left:5%;
+	width:10%;
+	height:100%;
+	float:left;
+	
+}
+#right{
+	float:left;
+	width:10%;
+	margin-right:5%;
+	height:100%;
+
+}
+.space{
+	height:40%;
+	width:100%;
+}
+
+.photo{
+	height:50%;
+	width:100%;
+}
+
+#shoulders{
+	margin-top:-2%;
+	height:40vh;
+	background-size: 100% 100%;
+	background-image: url("robbiebody.png");
+	/*background: rgb(8, 214, 187);*/
+	border-top-left-radius: 150px;
+	border-top-right-radius:150px;
+	margin-left: 35%;
+	width:30%;
+	position:static;
+}
+
